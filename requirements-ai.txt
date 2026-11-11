@@ -1,0 +1,2 @@
+# Semua dependensi AI sudah tercakup dalam requirements.txt.
+-r requirements.txt
